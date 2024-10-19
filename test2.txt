@@ -2,3 +2,5 @@ test2___test2
 status???
 IDE 깃 기능?
 diff 기능? (show diff with working tree)
+
+브랜치 테스트 테스트 part2
