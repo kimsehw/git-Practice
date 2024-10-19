@@ -1,1 +1,4 @@
 test2___test2
+status???
+IDE 깃 기능?
+diff 기능? (show diff with working tree)
