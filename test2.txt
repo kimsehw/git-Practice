@@ -5,3 +5,5 @@ diff 기능? (show diff with working tree)
 add도 있음?
 
 메인 브랜치 메인 메인
+
+메인 고친거 22
